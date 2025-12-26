@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasım</h1>
 <h3 align="center">A passionate backend-frontend developer from Turkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasimdevs&label=Profile%450views&color=0e75b6&style=flat" alt="kasimdevs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadecemsi&label=Profile%20views&color=0e75b6&style=flat" alt="kasimdevs" /> </p>
 
 - 🔭 I’m currently working on **WebSites**
 
